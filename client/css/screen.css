@@ -667,9 +667,9 @@ body.pageslide-open {
   -ms-border-radius: 0 0 3px 3px;
   -o-border-radius: 0 0 3px 3px;
   border-radius: 0 0 3px 3px;
-  -webkit-box-shadow: 0 1px 1px black;
+  /*-webkit-box-shadow: 0 1px 1px black;
   -moz-box-shadow: 0 1px 1px black;
-  box-shadow: 0 1px 1px black; }
+  box-shadow: 0 1px 1px black; }*/
   /* line 3, ../sass/partials/_mixins.scss */
   .header:before, .header:after {
     content: "";
