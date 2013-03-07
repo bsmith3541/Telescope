@@ -653,8 +653,9 @@ body.pageslide-open {
 
 /* line 10, ../sass/modules/_header.scss */
 .header {
-  background: #4e555d url("/img/bg-header.png") top center;
-  background-color: #4e555d;
+  /*background: #4e555d url("/img/bg-header.png") top center;
+  background-color: #4e555d;*/
+  background: white;
   margin-bottom: 10px;
   height: 70px;
   position: relative;
@@ -807,7 +808,7 @@ body.pageslide-open {
       padding-right: 0; }
     /* line 140, ../sass/modules/_header.scss */
     .nav > li > a {
-      color: white;
+      color: lightblue;
       font-size: 16px;
       line-height: 26px;
       height: 26px;
